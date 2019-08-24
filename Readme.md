@@ -1,4 +1,4 @@
-Matlab Toolbox for Random sampling and CS-based reconstruction for SPEN MRI
+# Matlab Toolbox of Random sampling and CS-based reconstruction for SPEN MRI
 
 Author: Lin Chen
 
