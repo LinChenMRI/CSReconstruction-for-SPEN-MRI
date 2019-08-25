@@ -11,11 +11,11 @@ This toolbox contains Matlab files that implement the SR reconstruction method d
 
 L. Chen, L.J. Bao, J. Li, S.H. Cai, C.B. Cai, Z. Chen, An aliasing artifacts reducing approach with random undersampling for spatiotemporally encoded single-shot MRI, J. Magn. Reson., 237 (2013) 115-124.
 
-You can download the paper at the following links:
+You can download the paper at the following link:
 
 http://www.sciencedirect.com/science/article/pii/S1090780713002589
 
-If you use this code, please cite the following papers:
+If you use this code, please cite the following paper:
 
 [1] L. Chen, L.J. Bao, J. Li, S.H. Cai, C.B. Cai, Z. Chen, An aliasing artifacts reducing approach with random undersampling for spatiotemporally encoded single-shot MRI, J. Magn. Reson., 237 (2013) 115-124.
 
