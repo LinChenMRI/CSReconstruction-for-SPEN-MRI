@@ -21,7 +21,7 @@ To use this toolbox, the following related toolbox is required:
 
 (1)WAVELAB 850 Toolbox at http://statweb.stanford.edu/~wavelab/Wavelab_850/download.html
 
-Welcome your comments and suggestions.
+Welcome your comments and suggestions. 
 
 For more information, please visit: https://linchenmri.com
 
