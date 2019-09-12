@@ -13,7 +13,7 @@ L. Chen, L.J. Bao, J. Li, S.H. Cai, C.B. Cai, Z. Chen, An aliasing artifacts red
 
 You can download the paper at the following link:
 
-http://www.sciencedirect.com/science/article/pii/S1090780713002589
+https://doi.org/10.1016/j.jmr.2013.10.005
 
 If you use this code, please cite the abovementioned paper.
 
